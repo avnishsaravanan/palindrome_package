@@ -1,0 +1,24 @@
+{
+  "name": "avnishsaravanan-course1pkg",
+  "version": "0.1.0",
+  "description": "palindrome evaluator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avnishsaravanan/palindrome_package.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "palindrome"
+  ],
+  "author": "Avnish Saravanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avnishsaravanan/palindrome_package/issues"
+  },
+  "homepage": "https://github.com/avnishsaravanan/palindrome_package#readme"
+}
