@@ -3,22 +3,26 @@
   "version": "0.1.0",
   "description": "palindrome evaluator",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "mocha"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avnishsaravanan/palindrome_package.git"
+    "url": "git+https://github.com/avnishsaravanan/palindrome-package2.git"
   },
   "keywords": [
     "javascript",
-    "js",
-    "palindrome"
+    "palindrome",
+    "evaluator",
+    "detector"
   ],
   "author": "Avnish Saravanan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/avnishsaravanan/palindrome_package/issues"
+    "url": "https://github.com/avnishsaravanan/palindrome-package2/issues"
   },
-  "homepage": "https://github.com/avnishsaravanan/palindrome_package#readme"
+  "homepage": "https://github.com/avnishsaravanan/palindrome-package2#readme"
 }
